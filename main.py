@@ -87,3 +87,7 @@ expander.write("問い合わせ内容を書く")
 
 color = st.color_picker('Pick A Color', '#00f900')
 st.write('The current color is', color)
+
+st.write("\n")
+st.write("参考：")
+st.write("https://www.udemy.com/course/python-streamlit/")
